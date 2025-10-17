@@ -1,18 +1,21 @@
-Hey there 👋 
-My name is Tadele Wodnimu and I'm a Biomedical Engineer/aspiring embedded software system developer.
+# Hi there, I'm Tadele Wondimu! 👋
 
-About me
-✨ Work as a biomedical engineer in addis ababa, Ethiopia.
-🎓 Graduated with a Bsc in biomedical engineer from Addis Ababa University on June 2019
-📫 How to reach me: tadwondimu@gmail.com
+I'm a **Biomedical Engineer** and aspiring **Embedded Software Systems Developer** based in Addis Ababa, Ethiopia. Passionate about bridging hardware and software to create impactful solutions in healthcare and tech. 🚀
 
-What I'm Up To
-- 🌱 Constantly learning and leveling up my skills in embedded systems
-- 🚀 Experimenting with projects that consist of C, C++ and Python
-- 💬 Always happy to chat about softwares, AI and tech in general!
+## About Me ✨
+- 🔭 **Currently:** Working as a Biomedical Engineer in Addis Ababa, Ethiopia.
+- 🎓 **Education:** BSc in Biomedical Engineering from Addis Ababa University (June 2019).
+- 📫 **Email:** [tadwondimu@gmail.com](mailto:tadwondimu@gmail.com)
 
-Let's Connect
-📫 Email: tadwondimu@gmail.com
-💼 LinkedIn: www.linkedin.com/in/tadelewondimu
- 𝕏 Twitter: https://x.com/tad_wonde
+## What I'm Up To 🌱
+- Constantly learning and leveling up my skills in **embedded systems**.
+- Experimenting with hands-on projects using **C**, **C++**, and **Python**.
+- 💬 Always up for chatting about software, AI, tech, or anything innovative!
+
+Feel free to reach out – let's collaborate on something cool! 🤝
+
+## Let's Connect 📫
+- **Email:** [tadwondimu@gmail.com](mailto:tadwondimu@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/tadelewondimu](https://www.linkedin.com/in/tadelewondimu)
+- **Twitter:** [@tad_wonde](https://x.com/tad_wonde)
 
