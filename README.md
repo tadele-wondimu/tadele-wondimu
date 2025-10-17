@@ -1,5 +1,5 @@
 Hey there 👋 
-My name is Tadele Wodnimuand I'm a Biomedical Engineer/aspiring embedded software system developer.
+My name is Tadele Wodnimu and I'm a Biomedical Engineer/aspiring embedded software system developer.
 
 About me
 ✨ Work as a biomedical engineer in addis ababa, Ethiopia.
