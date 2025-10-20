@@ -4,7 +4,7 @@ I'm a **Biomedical Engineer** and aspiring **Embedded Software Systems Developer
 
 ## About Me ✨
 - 🔭 **Currently:** Working as a Biomedical Engineer in Addis Ababa, Ethiopia.
-- 🎓 **Education:** BSc in Biomedical Engineering from Addis Ababa University (June 2019).
+- 🎓 **Education:** BSc in Biomedical Engineering from Addis Ababa University class of June 2019.
 - 📫 **Email:** [tadwondimu@gmail.com](mailto:tadwondimu@gmail.com)
 
 ## What I'm Up To 🌱
